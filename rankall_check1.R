@@ -1,0 +1,11 @@
+structure(list(hospital = c(NA, "D W MCMILLAN MEMORIAL HOSPITAL", 
+"ARKANSAS METHODIST MEDICAL CENTER", "JOHN C LINCOLN DEER VALLEY HOSPITAL", 
+"SHERMAN OAKS HOSPITAL", "SKY RIDGE MEDICAL CENTER", "MIDSTATE MEDICAL CENTER", 
+NA, NA, "SOUTH FLORIDA BAPTIST HOSPITAL"), state = structure(1:10, .Label = c("AK", 
+"AL", "AR", "AZ", "CA", "CO", "CT", "DC", "DE", "FL", "GA", "GU", 
+"HI", "IA", "ID", "IL", "IN", "KS", "KY", "LA", "MA", "MD", "ME", 
+"MI", "MN", "MO", "MS", "MT", "NC", "ND", "NE", "NH", "NJ", "NM", 
+"NV", "NY", "OH", "OK", "OR", "PA", "PR", "RI", "SC", "SD", "TN", 
+"TX", "UT", "VA", "VI", "VT", "WA", "WI", "WV", "WY"), class = "factor")), .Names = c("hospital", 
+"state"), row.names = c("AK", "AL", "AR", "AZ", "CA", "CO", "CT", 
+"DC", "DE", "FL"), class = "data.frame")
